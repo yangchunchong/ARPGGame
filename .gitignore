@@ -17,3 +17,8 @@ Content/Assets/Sounds/Creatures/Guardian/A_Guardian_Spawn_Cue.uasset
 Content/Assets/Sounds/Creatures/Guardian/A_Guardian_Swing01.uasset
 Content/Assets/Sounds/Creatures/Guardian/A_Guardian_Swing02.uasset
 Content/Assets/Sounds/Creatures/Guardian/A_Guardian_Swing03.uasset
+Content/Blueprints/Weapon/Goblin/GoblinWeapon_Axe.uasset
+Content/Blueprints/Weapon/Goblin/GoblinWeapon_Base.uasset
+Content/Blueprints/Weapon/Goblin/GoblinWeapon_Torch.uasset
+Content/Blueprints/Weapon/GreateBladeActor.uasset
+Content/Blueprints/Weapon/GuardianWeaponActor.uasset
